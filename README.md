@@ -14,7 +14,7 @@
 <div>
  <p>
 
-Seorang mahasiswa Informatika di Telkom University
+Fresh grad from Telkom University Informatics Major
    
 
 <div><p>My profile overview: </p></div>
